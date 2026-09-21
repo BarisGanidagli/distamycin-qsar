@@ -1,0 +1,4 @@
+model,scaffold_CV_R2
+"RF-GP ensemble (fingerprints), same 90",0.373
+"Free-Wilson, combined A coding (30 terms)",0.36
+"Free-Wilson, split stem + cap (22 terms)",0.407

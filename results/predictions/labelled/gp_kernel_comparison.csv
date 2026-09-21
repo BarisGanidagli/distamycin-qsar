@@ -1,0 +1,3 @@
+Kernel,Best_params,RMSE_foldavg,RMSE_foldsd,R2_foldavg,RMSE_pooled,R2_pooled,Pearson_pooled,Unc_vs_err_rho,Unc_vs_err_p,Coverage_90,Mean_std,SD_of_std
+Tanimoto (1024 bits),"{'noise_level': 0.01, 'variance': 0.5}",0.747,0.097,0.265,0.752,0.294,0.542,-0.168,0.071,0.871,0.762,0.0396
+RBF (1024 bits),"{'length_scale': 5.0, 'noise_level': 0.3}",0.748,0.096,0.26,0.754,0.291,0.54,-0.18,0.054,0.897,0.761,0.0392

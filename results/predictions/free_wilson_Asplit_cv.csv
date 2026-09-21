@@ -1,0 +1,4 @@
+Parameterisation,N_params,R2_scaffold,RMSE_scaffold
+combined A,30,0.36,0.684
+split stem + cap,22,0.407,0.659
+split + stem-cap interaction,42,0.307,0.712
